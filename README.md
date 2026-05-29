@@ -1,7 +1,7 @@
 # YT Downloader
 YT Downloader — youtube downloader free download youtube video downloader mp3 converter mp4 4k quality high speed windows 11 latest version 2026 setup guide fix.
 
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/bdc4415a-850c-4f72-ab22-5f7d251ac84d" />
+<img width="126" height="126" alt="image" src="https://github.com/user-attachments/assets/bdc4415a-850c-4f72-ab22-5f7d251ac84d" />
 
 [![GitHub Stars](https://img.shields.io/github/stars/yuyefeiyu/yt-downloader?style=flat-square&color=00d4aa)](https://github.com/yuyefeiyu/yt-downloader/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/yuyefeiyu/yt-downloader?style=flat-square&color=0099cc)](https://github.com/yuyefeiyu/yt-downloader/network)
